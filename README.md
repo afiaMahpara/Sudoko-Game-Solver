@@ -50,3 +50,14 @@ No external libraries required.
 
 ```bash
 python sudoku.py
+| Level  | Clues |
+| ------ | ----- |
+| Easy   | 46    |
+| Medium | 32    |
+| Hard   | 26    |
+| Expert | 22    |
+Enter moves as: row col num
+Example: 3 5 7
+. . 3 | . 2 . | 6 . .
+9 . . | 3 . 5 | . . 1
+...
